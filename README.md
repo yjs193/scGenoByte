@@ -44,7 +44,7 @@ scGenoByte/
 
 The required datasets and biological priors for **scGenoByte** are hosted on Quark Drive. You can download the complete data package from the link below:
 
-> 🔗 **Data Download Link:** [https://pan.quark.cn/s/fe21d768b090](https://www.google.com/search?q=https://pan.quark.cn/s/fe21d768b090&authuser=1)
+> 🔗 **Data Download Link:** [https://pan.quark.cn/s/fe21d768b090](https://pan.quark.cn/s/f29f79d91b2a)
 
 ### 📂 Directory Structure
 
